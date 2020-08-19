@@ -1,2 +1,5 @@
 # hello-world-again
-a revisit
+
+What's up world!
+
+I'm Trenton and I like simplicity and environmental sustainability.
